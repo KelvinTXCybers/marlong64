@@ -1,23 +1,25 @@
-# Hi there, I'm [Vinxcode] 👋
+# Hi there, I'm Kelvin 👋
+
+![Profile Picture](IMG_20250119_092847_758.jpg)
 
 ## About Me
-- 🔭 I’m currently working on [Your Project/Job]
-- 🌱 I’m currently learning [Your Learning Goals]
-- 👯 I’m looking to collaborate on [Your Collaboration Interests]
-- 🤔 I’m looking for help with [Any Help You Need]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on a web development project using React and Node.js.
+- 🌱 I’m currently learning about machine learning and data science.
+- 👯 I’m looking to collaborate on open-source projects and contribute to community initiatives.
+- 🤔 I’m looking for help with advanced algorithms and data structures.
+- 💬 Ask me about web development, JavaScript, and Python.
+- 📫 How to reach me: kelvin@example.com
+- ⚡ Fun fact: I love hiking and exploring new places!
 
 ## Skills
-- Programming Languages: [List of Languages]
-- Frameworks: [List of Frameworks]
-- Tools & Technologies: [List of Tools]
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Express
+- Tools & Technologies: Git, Docker, AWS
 
 ## Projects
-- [Project 1](link-to-project) - Brief description of the project.
-- [Project 2](link-to-project) - Brief description of the project.
-- [Project 3](link-to-project) - Brief description of the project.
+- [My Portfolio](link-to-your-portfolio) - A showcase of my work and projects.
+- [Weather App](link-to-weather-app) - A simple weather application using React.
+- [Chat Application](link-to-chat-app) - A real-time chat application built with Node.js and Socket.io.
 
 ## Connect with Me
 - [LinkedIn](your-linkedin-profile)
