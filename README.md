@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source projects and contribute to community initiatives.
 - 🤔 I’m looking for help with advanced algorithms and data structures.
 - 💬 Ask me about web development, JavaScript, and Python.
-- 📫 How to reach me: kelvin@example.com
+- 📫 How to reach me: kelvinpekanbaru01@gmail.com
 - ⚡ Fun fact: I love hiking and exploring new places!
 
 ## Skills
