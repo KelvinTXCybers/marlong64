@@ -5,7 +5,7 @@
 _Sering Di Rendahkan Tapi Aku Tetap Merendah_
 ___
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Luciver+Xploit+Jangan+Lupa+Follow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+VinXcode+Jangan+Lupa+Follow" />
 </p>
 
 ```text
